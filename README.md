@@ -66,4 +66,3 @@ This dashboard helps:
 
 
 
-Give it a ⭐ on GitHub and share your thoughts!
